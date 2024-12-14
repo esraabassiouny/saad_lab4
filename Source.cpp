@@ -5,4 +5,6 @@ int main()
 {
   cout <<"This is git";
   cout <<"git is fun";
+  cout <<"new branch";
 }
+
